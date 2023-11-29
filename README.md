@@ -33,10 +33,6 @@ Thử nghiệm với các kỹ thuật Ensemble để cải thiện hiệu suấ
 9. Trình Bày Kết Quả:
 So sánh hiệu suất giữa các mô hình và lựa chọn mô hình tốt nhất.
 Trực quan hóa kết quả và mối quan hệ giữa các biến dự đoán và mục tiêu.
-10. Triển Khai Mô Hình:
-Lưu trữ mô hình đã huấn luyện để sử dụng sau này.
-Phát triển một giao diện người dùng (nếu cần) để người dùng cuối có thể dễ dàng đưa vào thông tin và nhận giá dự đoán.
 11. Báo Cáo:
 Viết báo cáo hoặc trình bày dựa trên quá trình và kết quả của dự án.
 Đề xuất ý kiến và hướng phát triển cho tương lai.
-Đây là những bước cơ bản mà hầu hết các dự án phân tích dữ liệu sẽ theo. Tất nhiên, tùy thuộc vào dữ liệu cụ
